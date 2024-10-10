@@ -1,5 +1,8 @@
 Employee-Management-System
-Project Title: Employee Management System using Spring Boot and REST APIs Technologies Used: Spring Boot, Spring Data JPA, REST API, MySQL, Maven, Java, Postman.
+
+Project Title: Employee Management System using Spring Boot and REST APIs 
+
+Technologies Used: Spring Boot, Spring Data JPA, REST API, MySQL, Maven, Java, Postman.
 
 Description: 
 • Developed a Spring Boot application to manage employee data with CRUD operations (Create, Read, Update, Delete) using RESTful services. 
